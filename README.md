@@ -1,0 +1,2 @@
+# Task1-Employee-Data-Cleaning-Feature-Engineering-Pipeline
+This project implements a complete, production-style Exploratory Data Analysis (EDA) and Feature Engineering pipeline for a simulated employee performance and salary dataset. The objective is to transform raw, chaotic data into a mathematically clean, machine-learning-ready dataset using rigorous statistical logic rather than ad-hoc guessing.
